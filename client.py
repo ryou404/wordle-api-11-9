@@ -5,7 +5,7 @@ import requests
 
 # 桌面 client 在本機執行，透過這個網址呼叫雲端 FastAPI server。
 #API_BASE_URL = "https://wordle-server-a076.onrender.com"
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://wordle-api-11-9.onrender.com"
 
 # 顏色定義
 COLOR_BG = (18, 18, 19)
